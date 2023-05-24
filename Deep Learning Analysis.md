@@ -1,4 +1,6 @@
 # Deep Learning Analysis
+
+# Data Processing and Results
 In the first test, EIN and NAME were dropped from the dataset and the remaining columns were considered features for the model. THe data was split into training and testing sets of data where the target variable "IS_SUCCESSFUL" is verified by the value 1 and 0 being not successful. APPLICATION data was analyzed, and CLASSIFICATION's value was used for binning.
 
 Neural Network was applied on each model with 3 layers total, which only had an accuracy about 73%.
